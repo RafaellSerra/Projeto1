@@ -6,25 +6,27 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #f4f4f4;
+    background-color: #B5AA9D;
 }
 
 
 .form {
-    background-color: #331b1b;
+    background-color: #747274;
     text-align: center;
     height:  320px;
+    border-radius: 10px;
     
 }
 
 #sign-up{
     margin-top: 20px;
     width:150px;
-    background-color: aqua;
+    background-color: #7C90A0;
 }
 
 #log-in{
     width: 150px;
+    background-color: #7C90A0;
 }
 
 .sign-up-free{
@@ -34,7 +36,7 @@ body {
 
 input{
     margin:0 10px;
-    background-color: #331b1b;
+    background-color: ##B9B7A7;
     width: 100px;
     margin: 10px;
     width: 150px;
@@ -51,7 +53,7 @@ input{
 
 #get-started{
     
-    background-color: aqua;
+    background-color: #7C90A0;
     width:280px;
     padding:  10px;
     color: white;
